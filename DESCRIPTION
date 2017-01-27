@@ -1,6 +1,7 @@
 Package: rwtheme
 Version: 0.0.1
-Authors@R: c(person("Dennis M.", "Feehan", role=c("aut", "cre")))
+Authors@R: c(person("Dennis M.", "Feehan", role=c("aut", "cre"),
+             email="dfeehan@princeton.edu"))
 Depends: ggplot2
 License: MIT
 
